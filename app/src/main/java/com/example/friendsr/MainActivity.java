@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //
+        //connect this listener to the GridView.
         GridView gv = findViewById(R.id.grid);
         gv.setOnItemClickListener(new GridItemClickListener());
 
