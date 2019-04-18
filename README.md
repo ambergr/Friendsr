@@ -9,9 +9,9 @@ Hij onthoud alles als hij omgedraaid wordt.
 
 Ik heb ook het icon van de app veranderd.
 
-![Friendsr_main](Draw.jpg)
-![Friendsr_main_land](Player_one_won_.jpg)
-![friensr_friend](Player_1_won_land.jpg)
-!friensr_friend_land](player_two_won.jpg)
-![friensr_icon](icon_change.jpg)
+![Friendsr_main](Friensr_main.jpg)
+![Friendsr_main_land](main_land.jpg)
+![friensr_friend](friend.jpg)
+![friensr_friend_land](friend_land.jpg)
+![friensr_icon](Friendsr_icon.jpg)
 
